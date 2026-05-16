@@ -1,0 +1,29 @@
+PURVA PATIL
+ENTC Engineering Student
+Phone: 9356297973
+Email: purvapatil098@gmail.com
+Address: 53/1, Infront of Rahinj Nivas, Vinayak Nagar Lane No.1, Pimple Gurav, Pune
+Date of Birth: 21/07/2007
+
+PROFILE
+Motivated first-year B.E. student in Electronics and Telecommunication Engineering with knowledge of sensors and AC/DC motor working and types. Skilled in creating simulations using Tinkercad and proficient in C and Python. Eager to apply technical skills and grow through practical learning experiences.
+
+SKILLS
+- Sensors: Fundamentals and applications
+- AC & DC Motors: Working principles and types
+- Circuit simulation: Tinkercad
+- Programming: C and Python
+
+EDUCATION
+- B.Tech (ENTC): MIT Academy of Engineering (7.90 SGPA, Pursuing 1st Year)
+- HSC: Shri Shivaji Vidya Mandir (75.33%, 2025)
+- SSC: Vidya Niketan School (87.40%, 2023)
+
+PROJECTS
+- Doorbell Simulation Project: Designed and simulated a doorbell circuit using Tinkercad.
+- Smart Irrigation System: Developed a sensor-based irrigation model that automates watering based on soil moisture levels.
+- Automatic Object Avoiding Robot: Built a basic robot model using sensors to detect and avoid obstacles.
+
+HOBBIES
+- Dance
+- Drawing
